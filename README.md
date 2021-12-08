@@ -15,9 +15,11 @@ Installation
 ===============
 
 1. Clone the Repository
-	git clone https://github.com/OneWhiteSpirit/json_compare.git
+
+    ``` git clone https://github.com/OneWhiteSpirit/json_compare.git ```
 2. Change the directory
-	cd json_compare
+
+    ``` cd json_compare ```
 
 Usage
 ===============
